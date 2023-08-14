@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Hello, My name is Maghan Das. I am from Mehran University of Engineering and Technology Pakistan
-pursuing Bachler's degree in Software Engineering.
+Hello, My name is Maghan Das. I am from Pakistan. I am currently pursuing my Bachler's degree in Software Engineering from Mehran University of Engineering and Technology Jamshor Pakistan.
 
 I am always inspired by the power of Technology and the latest trends and tools that govern the modern world.
 
