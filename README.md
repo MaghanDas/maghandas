@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="center">- 🔭 CS STUDENT AT ELTE BUDAPEST, HUNGARY.<br></h4>
+<h4 align="center">- 🔭 CS STUDENT AT ELTE BUDAPEST, HUNGARY</h4>
 
 ###
 
