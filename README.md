@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="center">- 🔭 An Undergraduate Student.<br>- 📚  Currently learning Web development<br>- ⚡ Working on JAVA & CORE CS</h4>
+<h4 align="center">- 🔭 CS STUDENT AT ELTE BUDAPEST, HUNGARY.<br></h4>
 
 ###
 
