@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi there, I'm Maghan 👋</h1>
-  <p><b>B.Sc. Computer Science @ ELTE (GPA: 4.82/5.00) | Lab Assistant @ BME | Full-Stack & DevOps Engineer</b></p>
+  <p><b>B.Sc. Computer Science @ ELTE | Lab Assistant @ BME | Full-Stack & DevOps Engineer</b></p>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Full-Stack+Architect+(Django%2C+Laravel%2C+React);Cloud+%26+DevOps+(AWS%2C+Docker%2C+Terraform%2C+K8s);Building+Scalable+SaaS+%26+Real-time+Microservices;Lab+Assistant+%26+Tech+Mentor+@+BME" alt="Typing SVG" />
