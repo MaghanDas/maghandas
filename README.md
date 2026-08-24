@@ -36,10 +36,10 @@
 
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| 📦 [**ManuFlow**](https://github.com/MaghanDas) | Order tracking system featuring role-based workflows, a Node.js + Socket.io real-time microservice, 30+ automated tests, and Kubernetes deployment. | `Django REST` `React` `Redux` `TypeScript` `Node.js` `Socket.io` `Docker` `Terraform` `K8s` |
-| ⚡ [**CodeArena**](https://github.com/MaghanDas) | Greenfield competitive coding SaaS platform with 24 REST endpoints, Sanctum token authentication, RBAC policies, and multi-cloud deployment. | `Laravel 11` `React 18` `PostgreSQL` `Docker` `Render` `Vercel` |
-| ☁️ [**Cloud-Native Inventory**](https://github.com/MaghanDas) | Full-stack inventory app deployed on AWS using Terraform IaC (EC2, VPC, RDS) and zero-downtime GitHub Actions CI/CD workflows. | `FastAPI` `React` `PostgreSQL` `AWS` `Terraform` `Docker` `GitHub Actions` |
-| 🤝 [**SkillSwap**](https://github.com/MaghanDas) | Community skill exchange platform featuring session bookings, admin dashboards, responsive Tailwind UI, and containerized deployment. | `Laravel` `Tailwind CSS` `SQLite` `Docker` `CI/CD` `Render` |
+| 📦 [**ManuFlow**](https://github.com/MaghanDas/manuflow) | Order tracking system featuring role-based workflows, a Node.js + Socket.io real-time microservice, 30+ automated tests, and Kubernetes deployment. | `Django REST` `React` `Redux` `TypeScript` `Node.js` `Socket.io` `Docker` `Terraform` `K8s` |
+| ⚡ [**CodeArena**](https://github.com/MaghanDas/code-arena-client) | Greenfield competitive coding SaaS platform with 24 REST endpoints, Sanctum token authentication, RBAC policies, and multi-cloud deployment. | `Laravel 11` `React 18` `PostgreSQL` `Docker` `Render` `Vercel` |
+| ☁️ [**Cloud-Native Inventory**](https://github.com/MaghanDas/Cloud-Native-FastApi) | Full-stack inventory app deployed on AWS using Terraform IaC (EC2, VPC, RDS) and zero-downtime GitHub Actions CI/CD workflows. | `FastAPI` `React` `PostgreSQL` `AWS` `Terraform` `Docker` `GitHub Actions` |
+| 🤝 [**SkillSwap**](https://github.com/MaghanDas/skillswap) | Community skill exchange platform featuring session bookings, admin dashboards, responsive Tailwind UI, and containerized deployment. | `Laravel` `Tailwind CSS` `SQLite` `Docker` `CI/CD` `Render` |
 
 ---
 
